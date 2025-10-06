@@ -1,0 +1,9 @@
+# Ignore VS Code personal configs
+.vscode/
+
+# Ignore compiled executables
+*.exe
+
+# OS-specific files
+.DS_Store
+Thumbs.db
