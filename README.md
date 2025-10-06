@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # C++ DSA Learning Journey 
 
 Welcome to my C++ Data Structures & Algorithms (DSA) learning journey...! This repository tracks my progress in mastering C++ programming and key DSA concepts, along with projects and practice problems. 
