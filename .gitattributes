@@ -1,0 +1,9 @@
+# Set default behavior to automatically normalize line endings
+* text=auto
+
+# Force C++ source files to use LF internally
+*.cpp text eol=lf
+*.h text eol=lf
+
+# VS Code config files
+.vscode/* text eol=lf
